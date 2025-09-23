@@ -1,12 +1,17 @@
-# React + Vite
+Objective: Create and render multiple React components.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Description: Create Header, Content, and Footer components and render them inside the main App component.
 
-Currently, two official plugins are available:
+Learning Outcome: Understand component structure, import/export, and rendering multiple components.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Pseudo-Code:
 
-## Expanding the ESLint configuration
+  Create Header component → display heading text.
+  
+  Create Content component → display paragraph/text content.
+  
+  Create Footer component → display footer text.
+  
+  Import components into App.js and render them sequentially.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+  <img width="617" height="409" alt="Screenshot 2025-09-17 195022" src="https://github.com/user-attachments/assets/f04b9955-d0f9-4b90-8c4f-9e249e012b1c" />
